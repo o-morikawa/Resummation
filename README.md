@@ -12,7 +12,7 @@ and so on.
 borel-instanton.pdf, a LaTeX pdf, provides a simple example of Borel resummation analytically.
 
 Some Mathematica files are given as ".nb" and/or ".pdf".
-Most parts are devoted to an explanation of Marino's book, "Instantons and Large N".
+Most parts are devoted to an explanation of **Marino's book, "Instantons and Large N"**.
 E.g., see pade.nb (pade.pdf).
 
 Moreover, we address other resummation techniques such as oder dependent mapping (see odm.nb/odm.pdf).
